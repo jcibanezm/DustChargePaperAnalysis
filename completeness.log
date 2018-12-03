@@ -1,0 +1,151 @@
+-----------------------------------------------------------
+Some properties of the simulation:
+Density,     min = 5.4e-25,	 max = 2.6e-17
+Temperature, min = 4.8,		 max = 1.3e+04
+ndens H,     min = 0.16,	 max = 7.9e+06
+ndens e,     min = 2.5e-05,	 max = 0.37
+e fraction,  min = 3.1e-12,	 max = 0.015
+Rad. Field G min = 0.015,	 max = inf
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+===================================================
+Running the charge distribution calculation for:
+carbonaceous Grains
+5 Angstrom size grain
+
+On the simulaion: /home/jcibanezm/codes/run/Silcc/CF_Prabesh/NL99_R8_cf_hdf5_chk_0028
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+Resolution: 0.031 pc
+Total cell number = 8594944
+Total cells in analysis = 85949
+
+Number of processors: 3
+Cell per processor: 28649
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+processor 1, progress 25 
+processor 0, progress 25 
+processor 2, progress 25 
+processor 1, progress 50 
+processor 0, progress 50 
+processor 2, progress 50 
+processor 1, progress 75 
+processor 0, progress 75 
+processor 2, progress 75 
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+Saving charge distribution to /home/jcibanezm/codes/run/ChargeStatisticsAnalysis/CR/Completeness/fz_005AA_carbonaceous_CR_False_1_Percent.pkl
+Time taken to calculate the charge distribution of 85949 grains with 3 processors = 18900.88
+===================================================
+Running the charge distribution calculation for:
+carbonaceous Grains
+5 Angstrom size grain
+
+On the simulaion: /home/jcibanezm/codes/run/Silcc/CF_Prabesh/NL99_R8_cf_hdf5_chk_0028
+Resolution: 0.031 pc
+Total cell number = 8594944
+Total cells in analysis = 429747
+
+Number of processors: 3
+Cell per processor: 143249
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+processor 1, progress 25 
+processor 0, progress 25 
+processor 2, progress 25 
+processor 1, progress 50 
+processor 0, progress 50 
+processor 2, progress 50 
+processor 1, progress 75 
+processor 0, progress 75 
+processor 2, progress 75 
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+Saving charge distribution to /home/jcibanezm/codes/run/ChargeStatisticsAnalysis/CR/Completeness/fz_005AA_carbonaceous_CR_False_5_Percent.pkl
+Time taken to calculate the charge distribution of 429747 grains with 3 processors = 91451.59
+===================================================
+Running the charge distribution calculation for:
+carbonaceous Grains
+5 Angstrom size grain
+
+On the simulaion: /home/jcibanezm/codes/run/Silcc/CF_Prabesh/NL99_R8_cf_hdf5_chk_0028
+Resolution: 0.031 pc
+Total cell number = 8594944
+Total cells in analysis = 859494
+
+Number of processors: 3
+Cell per processor: 286498
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+processor 1, progress 25 
+processor 0, progress 25 
+processor 2, progress 25 
+processor 1, progress 50 
+processor 0, progress 50 
+processor 2, progress 50 
+processor 0, progress 75 
+processor 1, progress 75 
+processor 2, progress 75 
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+Saving charge distribution to /home/jcibanezm/codes/run/ChargeStatisticsAnalysis/CR/Completeness/fz_005AA_carbonaceous_CR_False_10_Percent.pkl
+Time taken to calculate the charge distribution of 859494 grains with 3 processors = 207648.06
+===================================================
+Running the charge distribution calculation for:
+carbonaceous Grains
+5 Angstrom size grain
+
+On the simulaion: /home/jcibanezm/codes/run/Silcc/CF_Prabesh/NL99_R8_cf_hdf5_chk_0028
+Resolution: 0.031 pc
+Total cell number = 8594944
+Total cells in analysis = 1718988
+
+Number of processors: 3
+Cell per processor: 572996
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+-----------------------------------------------------------
+Some properties of the simulation:
+Density,     min = 5.4e-25,	 max = 2.6e-17
+Temperature, min = 4.8,		 max = 1.3e+04
+ndens H,     min = 0.16,	 max = 7.9e+06
+ndens e,     min = 2.5e-05,	 max = 0.37
+e fraction,  min = 3.1e-12,	 max = 0.015
+Rad. Field G min = 0.015,	 max = inf
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+===================================================
+Running the charge distribution calculation for:
+carbonaceous Grains
+5 Angstrom size grain
+
+On the simulaion: /home/jcibanezm/codes/run/Silcc/CF_Prabesh/NL99_R8_cf_hdf5_chk_0028
+Resolution: 0.031 pc
+Total cell number = 8594944
+Total cells in analysis = 1718988
+
+Number of processors: 6
+Cell per processor: 286498
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+processor 2, progress 25 
+processor 1, progress 25 
+processor 4, progress 25 
+processor 3, progress 25 
+processor 0, progress 25 
+processor 5, progress 25 

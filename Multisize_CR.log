@@ -1,0 +1,128 @@
+-----------------------------------------------------------
+Some properties of the simulation:
+Density,     min = 5.4e-25,	 max = 2.6e-17
+Temperature, min = 4.8,		 max = 1.3e+04
+ndens H,     min = 0.16,	 max = 7.9e+06
+ndens e,     min = 2.5e-05,	 max = 0.37
+e fraction,  min = 3.1e-12,	 max = 0.015
+Rad. Field G min = 0.015,	 max = inf
+===================================================
+Running the charge distribution calculation for:
+carbonaceous Grains
+5 Angstrom size grain
+
+On the simulaion: /home/jcibanezm/codes/run/Silcc/CF_Prabesh/NL99_R8_cf_hdf5_chk_0028
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+Resolution: 0.031 pc
+Total cell number = 8594944
+Total cells in analysis = 85949
+
+Number of processors: 3
+Cell per processor: 28649
+I'm looking for a grain size smaller than 10 Angstrom. Outside the tabulated data!!!
+Extrapolating is kinda not working so taking the Qabs, a=10 AA 
+processor 0, progress 25 
+processor 1, progress 25 
+processor 2, progress 25 
+processor 0, progress 50 
+processor 1, progress 50 
+processor 2, progress 50 
+processor 0, progress 75 
+processor 1, progress 75 
+processor 2, progress 75 
+Saving charge distribution to /home/jcibanezm/codes/run/ChargeStatisticsAnalysis/CR/fz_005AA_carbonaceous_CR_True.pkl
+Time taken to calculate the charge distribution of 85949 grains with 3 processors = 47011.90
+===================================================
+Running the charge distribution calculation for:
+carbonaceous Grains
+10 Angstrom size grain
+
+On the simulaion: /home/jcibanezm/codes/run/Silcc/CF_Prabesh/NL99_R8_cf_hdf5_chk_0028
+Resolution: 0.031 pc
+Total cell number = 8594944
+Total cells in analysis = 85949
+
+Number of processors: 3
+Cell per processor: 28649
+processor 0, progress 25 
+processor 1, progress 25 
+processor 2, progress 25 
+processor 0, progress 50 
+processor 1, progress 50 
+processor 2, progress 50 
+processor 0, progress 75 
+processor 1, progress 75 
+processor 2, progress 75 
+Saving charge distribution to /home/jcibanezm/codes/run/ChargeStatisticsAnalysis/CR/fz_010AA_carbonaceous_CR_True.pkl
+Time taken to calculate the charge distribution of 85949 grains with 3 processors = 70498.22
+===================================================
+Running the charge distribution calculation for:
+carbonaceous Grains
+100 Angstrom size grain
+
+On the simulaion: /home/jcibanezm/codes/run/Silcc/CF_Prabesh/NL99_R8_cf_hdf5_chk_0028
+Resolution: 0.031 pc
+Total cell number = 8594944
+Total cells in analysis = 85949
+
+Number of processors: 3
+Cell per processor: 28649
+processor 2, progress 25 
+processor 1, progress 25 
+processor 0, progress 25 
+processor 2, progress 50 
+processor 1, progress 50 
+processor 0, progress 50 
+processor 2, progress 75 
+processor 1, progress 75 
+processor 0, progress 75 
+Saving charge distribution to /home/jcibanezm/codes/run/ChargeStatisticsAnalysis/CR/fz_100AA_carbonaceous_CR_True.pkl
+Time taken to calculate the charge distribution of 85949 grains with 3 processors = 1397454.50
+===================================================
+Running the charge distribution calculation for:
+carbonaceous Grains
+1000 Angstrom size grain
+
+On the simulaion: /home/jcibanezm/codes/run/Silcc/CF_Prabesh/NL99_R8_cf_hdf5_chk_0028
+Resolution: 0.031 pc
+Total cell number = 8594944
+Total cells in analysis = 85949
+
+Number of processors: 3
+Cell per processor: 28649
+--------------------------------------------------------------------------
+mpiexec noticed that process rank 0 with PID 8201 on node Dust-Box exited on signal 15 (Terminated).
+--------------------------------------------------------------------------
+ess 25 
+processor 5, progress 50 
+processor 4, progress 50 
+processor 3, progress 50 
+processor 0, progress 50 
+processor 2, progress 50 
+processor 1, progress 50 
+processor 5, progress 75 
+processor 4, progress 75 
+processor 3, progress 75 
+processor 2, progress 75 
+processor 0, progress 75 
+processor 1, progress 75 
+Saving charge distribution to /home/jcibanezm/codes/run/ChargeStatisticsAnalysis/CR/fz_100AA_carbonaceous_CR_True.pkl
+Time taken to calculate the charge distribution of 85949 grains with 6 processors = 691126.93
+===================================================
+Running the charge distribution calculation for:
+carbonaceous Grains
+1000 Angstrom size grain
+
+On the simulaion: /home/jcibanezm/codes/run/Silcc/CF_Prabesh/NL99_R8_cf_hdf5_chk_0028
+Resolution: 0.031 pc
+Total cell number = 8594944
+Total cells in analysis = 85949
+
+Number of processors: 6
+Cell per processor: 14324
+--------------------------------------------------------------------------
+mpiexec noticed that process rank 3 with PID 8170 on node Dust-Box exited on signal 15 (Terminated).
+--------------------------------------------------------------------------
